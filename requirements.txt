@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+langchain-google-genai
+langchain-groq
+pandas
+pillow
+python-dotenv
+langchain-core
